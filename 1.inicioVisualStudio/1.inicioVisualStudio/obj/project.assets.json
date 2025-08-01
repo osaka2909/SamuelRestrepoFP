@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Samuel Restrepo\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.csproj",
+      "projectUniqueName": "C:\\samuel restrepo\\SamuelRestrepoFP\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.csproj",
       "projectName": "1.inicioVisualStudio",
-      "projectPath": "C:\\Samuel Restrepo\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.csproj",
+      "projectPath": "C:\\samuel restrepo\\SamuelRestrepoFP\\1.inicioVisualStudio\\1.inicioVisualStudio\\1.inicioVisualStudio.csproj",
       "packagesPath": "C:\\Users\\B09S105est\\.nuget\\packages\\",
-      "outputPath": "C:\\Samuel Restrepo\\1.inicioVisualStudio\\1.inicioVisualStudio\\obj\\",
+      "outputPath": "C:\\samuel restrepo\\SamuelRestrepoFP\\1.inicioVisualStudio\\1.inicioVisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

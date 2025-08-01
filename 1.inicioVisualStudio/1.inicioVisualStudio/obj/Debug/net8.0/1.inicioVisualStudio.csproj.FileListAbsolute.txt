@@ -1,0 +1,15 @@
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\bin\Debug\net8.0\1.inicioVisualStudio.exe
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\bin\Debug\net8.0\1.inicioVisualStudio.deps.json
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\bin\Debug\net8.0\1.inicioVisualStudio.runtimeconfig.json
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\bin\Debug\net8.0\1.inicioVisualStudio.dll
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\bin\Debug\net8.0\1.inicioVisualStudio.pdb
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.AssemblyInfoInputs.cache
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.AssemblyInfo.cs
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.csproj.CoreCompileInputs.cache
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.sourcelink.json
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.dll
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\refint\1.inicioVisualStudio.dll
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.pdb
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\1.inicioVisualStudio.genruntimeconfig.cache
+C:\samuel restrepo\SamuelRestrepoFP\1.inicioVisualStudio\1.inicioVisualStudio\obj\Debug\net8.0\ref\1.inicioVisualStudio.dll
