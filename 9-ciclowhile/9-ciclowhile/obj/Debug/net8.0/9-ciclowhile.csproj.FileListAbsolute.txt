@@ -1,0 +1,15 @@
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\bin\Debug\net8.0\9-ciclowhile.exe
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\bin\Debug\net8.0\9-ciclowhile.deps.json
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\bin\Debug\net8.0\9-ciclowhile.runtimeconfig.json
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\bin\Debug\net8.0\9-ciclowhile.dll
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\bin\Debug\net8.0\9-ciclowhile.pdb
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.AssemblyInfoInputs.cache
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.AssemblyInfo.cs
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.csproj.CoreCompileInputs.cache
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.sourcelink.json
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.dll
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\refint\9-ciclowhile.dll
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.pdb
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\9-ciclowhile.genruntimeconfig.cache
+C:\samuel restrepo\SamuelRestrepoFP\9-ciclowhile\9-ciclowhile\obj\Debug\net8.0\ref\9-ciclowhile.dll
